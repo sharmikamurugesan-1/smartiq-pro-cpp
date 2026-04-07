@@ -1,0 +1,75 @@
+Enter your name: Sharmika
+
+----------------------------------
+What is the output?
+int a = 5; cout << a++ + ++a;
+1) 10
+2) 11
+3) 12
+4) 13
+Your answer: 3
+Correct!
+
+----------------------------------
+Identify the error:
+if(x = 5)
+1) Syntax Error
+2) Logical Error
+3) Runtime Error
+4) No Error
+Your answer: 2
+Correct!
+
+----------------------------------
+Next number: 2, 4, 8, 16, ?
+1) 18
+2) 24
+3) 32
+4) 30
+Your answer: 3
+Correct!
+
+----------------------------------
+What is the output?
+int x = 10; cout << x-- - --x;
+1) 0
+2) 1
+3) 2
+4) -1
+Your answer: 3
+Correct!
+
+----------------------------------
+Which loop executes at least once?
+1) for
+2) while
+3) do-while
+4) none
+Your answer: 3
+Correct!
+
+----------------------------------
+Largest number among 5, 9, 2, 7?
+1) 5
+2) 7
+3) 9
+4) 2
+Your answer: 3
+Correct!
+
+----------------------------------
+What is output?
+int i = 1; while(i < 5) i++; cout << i;
+1) 4
+2) 5
+3) 6
+4) Error
+Your answer: 2
+Correct!
+
+----------------------------------
+Final Score: 7/7
+Performance: Excellent
+
+Score History:
+Sharmika - 7/7
